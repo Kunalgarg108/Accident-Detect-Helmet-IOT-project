@@ -16,3 +16,10 @@ The **Smart Accident Detection Helmet** is the IoT-based safety solution for **t
 - **Communication Modules:**  
   - 📡 **GPS Module** – Real-time location tracking  
   - 📩 **GSM Module** – Sends emergency alerts  
+
+---
+
+## Unique Features
+✔️ First implementation using Proteus Simulation
+✔️ Includes pulse sensor for medical emergency assessment
+✔️ Instant medical response via real-time health updates
