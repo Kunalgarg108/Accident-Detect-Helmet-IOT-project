@@ -19,7 +19,7 @@ The **Smart Accident Detection Helmet** is the IoT-based safety solution for **t
 
 ---
 
-## Unique Features
-✔️ First implementation using Proteus Simulation
-✔️ Includes pulse sensor for medical emergency assessment
-✔️ Instant medical response via real-time health updates
+## 🚀 Unique Features  
+✔️ First implementation using **Proteus Simulation**  
+✔️ Includes **Pulse Sensor** for medical emergency assessment  
+✔️ **Instant medical response** via real-time health updates  
