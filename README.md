@@ -1,7 +1,7 @@
 # Accident Detection Helmet 🚀
 
-## 📌 Overview  
-The **Smart Accident Detection Helmet** is an IoT-based safety solution for **two-wheeler riders**. It detects accidents using multiple sensors and provides **real-time emergency alerts** via GPS and GSM modules.  
+##  Overview  
+The **Smart Accident Detection Helmet** is the IoT-based safety solution for **two-wheeler riders**. It detects accidents using multiple sensors and provides **real-time emergency alerts** via GPS and GSM modules.  
 
 ---
 
