@@ -5,7 +5,7 @@
 LiquidCrystal lcd(13, 5, 6, 7, 8, 9);
 const int ir_Sensor = 10;
 const int alcohol_Sensor = 11;
-const int vibration_Sensor = 12;\
+const int vibration_Sensor = 12;
 const int led=3;
 TinyGPS gps;
 long lat, lon;
